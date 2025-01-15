@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/shvpati/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://literate-space-zebra-rv9q9696qj43w5x4-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://literate-space-zebra-rv9q9696qj43w5x4-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
